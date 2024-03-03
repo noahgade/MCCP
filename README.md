@@ -8,4 +8,4 @@ Repository includes:
 
 - Matlab code taken and adapted from "Online Kernel CUSUM for Change-Point Detection" ([paper](https://arxiv.org/pdf/2211.15070.pdf)) ([GitHub](https://github.com/SongWei-GT/online_kernel_cusum)) (Wei and Xie 2023).
 
-- Other comparator method from the hdbinseg Rpackage ([paper](https://doi.org/10.1111/rssb.12079)) (Cho and Fryzlewicz 2016) and the ecp Rpackage ([paper](https://cran.r-project.org/web/packages/ecp/vignettes/ecp.pdf)) (James and Matteson 2014).
+- Other comparator methods from the hdbinseg Rpackage ([paper](https://doi.org/10.1111/rssb.12079)) (Cho and Fryzlewicz 2016) and the ecp Rpackage ([paper](https://cran.r-project.org/web/packages/ecp/vignettes/ecp.pdf)) (James and Matteson 2014).
