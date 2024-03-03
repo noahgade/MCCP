@@ -6,4 +6,6 @@ Repository includes:
 
 - Simulation results can be found at the same Google Drive [folder](https://drive.google.com/drive/folders/141bvh19ILs3eOnWlIvVAvB3IJsoaZPUc?usp=share_link).
 
-- Matlab code taken and adapted from "Online Kernel CUSUM for Change-Point Detection" [arXiv](https://arxiv.org/pdf/2211.15070.pdf) [GitHub](https://github.com/SongWei-GT/online_kernel_cusum) (Wei and Xie 2023). 
+- Matlab code taken and adapted from "Online Kernel CUSUM for Change-Point Detection" [paper](https://arxiv.org/pdf/2211.15070.pdf) [GitHub](https://github.com/SongWei-GT/online_kernel_cusum) (Wei and Xie 2023).
+
+- Other comparator method from the hdbinseg Rpackage [paper](https://doi.org/10.1111/rssb.12079) (Cho and Fryzlewicz 2016) and the ecp Rpackage [paper](https://cran.r-project.org/web/packages/ecp/vignettes/ecp.pdf) (James and Matteson 2014).
