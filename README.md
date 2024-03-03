@@ -5,3 +5,5 @@ Repository includes:
 - Simulation code used to generate results and figures discussed in paper (.R, .cpp, and .m files). 
 
 - Simulation results can be found at the same Google Drive [folder](https://drive.google.com/drive/folders/141bvh19ILs3eOnWlIvVAvB3IJsoaZPUc?usp=share_link).
+
+- Matlab code taken and adapted from "Online Kernel CUSUM for Change-Point Detection" [arXiv](https://arxiv.org/pdf/2211.15070.pdf) [GitHub](https://github.com/SongWei-GT/online_kernel_cusum) (Wei and Xie 2023). 
